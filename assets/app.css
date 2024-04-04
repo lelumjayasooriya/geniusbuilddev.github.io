@@ -1,6 +1,6 @@
 :root {
-  --primary: #e01705;
-  --secondary: #0a1f44;
+  --primary: #101a58;
+  --secondary: #101a58;
   --primary-invert: #fff;
   --secondary-invert: #fff;
 
@@ -8,7 +8,7 @@
    --alert-text-primary: #fff;
    
   /* DEFAULT COLOR OF TEXTS */
-  --text-primary: #0a1f44;
+  --text-primary: #101a58;
   
   /* FOR BUTTONS & INPUTS */
   --elements-roundness: 10rem;
